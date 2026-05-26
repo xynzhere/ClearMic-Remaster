@@ -1,19 +1,19 @@
 # ClearMic *REMASTER* 🤍
-ClearMic Remaster is a revival of the classic ClearMic mod from the good ol days. This is not the same microphone enhancement found in other mod menus, it takes a different approach and focuses on delivering the cleanest, loudest and highest quality voice transmission possible.
+ClearMic REMASTER revives the classic ClearMic mod from back in the day. Unlike the microphone tweaks found in some mod menus, this takes a different approach and focuses on making your microphone sound as clean, loud, and natural as possible.
 
-## Features
+## What exactly does it do?
 
-_Configures the Opus encoder to use the highest quality bitrate settings available for improved voice clarity_
+_Uses higher Opus bitrate settings for clearer microphone quality_
+  
+_Boosts microphone output volume_
+  
+_Lowers audio frame duration for reduced latency and fewer compression artifacts_
 
-_Boosts microphone volume for a louder and more consistent output_
+_Sends audio packets reliably to reduce cutouts_
 
-_Reduces audio frame duration, resulting in lower latency, fewer compression artifacts, and smoother voice transmission_
-
-_Forces voice packets to be sent reliably, reducing audio dropouts caused by traditional shitty UDP delivery_
-
-_Completely removes the WebRTC DSP processing chain, disabling noise suppression, automatic gain control, and other voice filters that can cut out or distort loud microphones_
-
-_Improves overall voice fidelity, making speech sound clearer, fuller, and more detailed_
+_Disables WebRTC DSP processing (noise suppression, AGC, etc.) to prevent loud mics from sounding compressed/distorted or getting cut off_
+  
+_Overall clearer and better microphone transmission_
 
 ##
 
